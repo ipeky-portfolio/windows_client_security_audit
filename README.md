@@ -36,6 +36,7 @@ Das Audit folgt einem 5-Phasen Ansatz:
 4. Risikobewertung
 5. Reporting & Remediation-Planung
 
+**Disclaimer**: Dieses Repository ist ein fiktives Mock-Audit und dient ausschließlich zu Demonstrationszwecken. Die Inhalte basieren auf typischen aufsichtlichen Anforderungen, ersetzen jedoch keine formale Rechtsberatung oder tatsächliche Audit-Dokumentation.
 ## Audit-Kategorien
 
 - Kontorichtlinien (Account Policies)
